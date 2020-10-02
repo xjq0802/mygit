@@ -4,3 +4,4 @@ I add some words in line 3
 git tracks changes of files
 Creating a new branch is quick!
 dev branch
+Creating a new branch is quick AND simple
